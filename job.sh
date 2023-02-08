@@ -3,7 +3,7 @@
 #$ -l h_rt=01:00:00                                                                                                                                                                     
 #$ -l mem=4.5G                                                                                                                                                                          
 #$ -N single_it1b                                                                                                                                                                       
-#$ -pe mpi 80                                                                                                                                                                           
+#$ -pe mpi 80  
 #$ -A KCL_Admin_rse                                                                                                                                                                     
 #$ -cwd                                                                                                                                                                                 
 
